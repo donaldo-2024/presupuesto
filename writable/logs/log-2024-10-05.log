@@ -1,0 +1,58 @@
+CRITICAL - 2024-10-05 02:59:17 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 02:59:18 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-05 04:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-05 04:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-05 04:49:56 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 04:49:56 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

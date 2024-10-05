@@ -1,0 +1,1077 @@
+INFO - 2024-10-04 04:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 04:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 04:19:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 04:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 04:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 04:22:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 04:25:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 04:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-04 04:31:01 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 04:31:01 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 04:31:31 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 04:31:32 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-04 04:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 04:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-04 04:46:01 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: editarproveedor/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\proveedor\editar.php on line 36.
+ 1 APPPATH\Views\proveedor\editar.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\proveedor\\editar.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\proveedor\\editar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('proveedor/editar', [], true)
+ 5 APPPATH\Controllers\ProveedorController.php(75): view('proveedor/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProveedorController->edit('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProveedorController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 04:46:02 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: editarproveedor/favicon.ico]
+in APPPATH\Views\proveedor\editar.php on line 36.
+ 1 APPPATH\Views\proveedor\editar.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\proveedor\\editar.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\proveedor\\editar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('proveedor/editar', [], true)
+ 5 APPPATH\Controllers\ProveedorController.php(75): view('proveedor/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProveedorController->edit('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProveedorController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 04:46:11 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: editarproveedor/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\proveedor\editar.php on line 36.
+ 1 APPPATH\Views\proveedor\editar.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\proveedor\\editar.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\proveedor\\editar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('proveedor/editar', [], true)
+ 5 APPPATH\Controllers\ProveedorController.php(75): view('proveedor/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProveedorController->edit('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProveedorController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 04:46:12 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: editarproveedor/favicon.ico]
+in APPPATH\Views\proveedor\editar.php on line 36.
+ 1 APPPATH\Views\proveedor\editar.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\proveedor\\editar.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\proveedor\\editar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('proveedor/editar', [], true)
+ 5 APPPATH\Controllers\ProveedorController.php(75): view('proveedor/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProveedorController->edit('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProveedorController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-04 04:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 04:53:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-04 04:54:16 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 04:54:16 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-04 04:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 05:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 05:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-04 05:02:34 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:02:35 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-04 05:06:13 --> mysqli_sql_exception: Column 'transporte' cannot be null in C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `de...', 0)
+#1 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `de...')
+#2 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `de...')
+#3 C:\xampp\htdocs\presupuesto\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `de...', Array, false)
+#4 C:\xampp\htdocs\presupuesto\app\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\presupuesto\app\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar(Array)
+#6 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+#7 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+#8 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presupuesto\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\presupuesto\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\presupuesto\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-04 05:06:13 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+[Method: POST, Route: formmueble]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 2 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:06:13 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'-100\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'-100\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 4 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:06:13 --> [Caused by] mysqli_sql_exception: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'-100\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'-100\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'-100\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 5 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:06:17 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:06:17 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-04 05:06:28 --> mysqli_sql_exception: Column 'transporte' cannot be null in C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `de...', 0)
+#1 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `de...')
+#2 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `de...')
+#3 C:\xampp\htdocs\presupuesto\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `de...', Array, false)
+#4 C:\xampp\htdocs\presupuesto\app\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\presupuesto\app\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar(Array)
+#6 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+#7 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+#8 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presupuesto\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\presupuesto\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\presupuesto\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-04 05:06:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+[Method: POST, Route: formmueble]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 2 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:06:28 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'-100\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'-100\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 4 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:06:28 --> [Caused by] mysqli_sql_exception: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'-100\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'-100\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'-100\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 5 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:06:30 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:06:31 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:07:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:07:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-04 05:08:02 --> mysqli_sql_exception: Column 'id_usuario' cannot be null in C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `de...', 0)
+#1 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `de...')
+#2 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `de...')
+#3 C:\xampp\htdocs\presupuesto\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `de...', Array, false)
+#4 C:\xampp\htdocs\presupuesto\app\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\presupuesto\app\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar(Array)
+#6 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+#7 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+#8 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presupuesto\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\presupuesto\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\presupuesto\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-04 05:08:02 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_usuario' cannot be null
+[Method: POST, Route: formmueble]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 2 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:08:02 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_usuario' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', NULL, \'\', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 0, \'2024-10-04\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', NULL, \'\', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 0, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 4 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:08:02 --> [Caused by] mysqli_sql_exception: Column 'id_usuario' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', NULL, \'\', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 0, \'2024-10-04\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', NULL, \'\', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 0, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', NULL, \'\', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 0, \'2024-10-04\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 5 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:08:09 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:08:09 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-04 05:09:51 --> mysqli_sql_exception: Column 'transporte' cannot be null in C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `de...', 0)
+#1 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `de...')
+#2 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `de...')
+#3 C:\xampp\htdocs\presupuesto\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `de...', Array, false)
+#4 C:\xampp\htdocs\presupuesto\app\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\presupuesto\app\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar(Array)
+#6 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+#7 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+#8 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presupuesto\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\presupuesto\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\presupuesto\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-04 05:09:51 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+[Method: POST, Route: formmueble]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 2 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:09:51 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 4 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:09:51 --> [Caused by] mysqli_sql_exception: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'886\', \'1772\', 1, \'2024-10-04\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 5 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:09:54 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:09:54 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-04 05:10:05 --> mysqli_sql_exception: Column 'transporte' cannot be null in C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `de...', 0)
+#1 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `de...')
+#2 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `de...')
+#3 C:\xampp\htdocs\presupuesto\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `de...', Array, false)
+#4 C:\xampp\htdocs\presupuesto\app\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\presupuesto\app\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar(Array)
+#6 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+#7 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+#8 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presupuesto\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\presupuesto\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\presupuesto\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-04 05:10:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+[Method: POST, Route: formmueble]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 2 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:10:05 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'0\', \'0\', 1, \'2024-10-04\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'0\', \'0\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 4 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:10:05 --> [Caused by] mysqli_sql_exception: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'0\', \'0\', 1, \'2024-10-04\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'0\', \'0\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-23\', \'un año\', \'0\', \'0\', 1, \'2024-10-04\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 5 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:10:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:10:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:19:05 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:19:05 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-04 05:19:51 --> mysqli_sql_exception: Column 'id_usuario' cannot be null in C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `de...', 0)
+#1 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `de...')
+#2 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `de...')
+#3 C:\xampp\htdocs\presupuesto\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `de...', Array, false)
+#4 C:\xampp\htdocs\presupuesto\app\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\presupuesto\app\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar(Array)
+#6 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+#7 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+#8 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presupuesto\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\presupuesto\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\presupuesto\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-04 05:19:51 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_usuario' cannot be null
+[Method: POST, Route: formmueble]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 2 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:19:51 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_usuario' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', NULL, \'\', NULL, \'0\', \'700.00\', \'0\', \'\', \'\', \'\', \'800\', \'800\', 0, \'2024-10-04\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', NULL, \'\', NULL, \'0\', \'700.00\', \'0\', \'\', \'\', \'\', \'800\', \'800\', 0, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 4 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:19:51 --> [Caused by] mysqli_sql_exception: Column 'id_usuario' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', NULL, \'\', NULL, \'0\', \'700.00\', \'0\', \'\', \'\', \'\', \'800\', \'800\', 0, \'2024-10-04\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', NULL, \'\', NULL, \'0\', \'700.00\', \'0\', \'\', \'\', \'\', \'800\', \'800\', 0, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'11\', NULL, \'\', NULL, \'0\', \'700.00\', \'0\', \'\', \'\', \'\', \'800\', \'800\', 0, \'2024-10-04\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 5 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:19:55 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:19:55 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-04 05:22:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-04 05:24:16 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:24:16 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-04 05:26:20 --> mysqli_sql_exception: Column 'transporte' cannot be null in C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `de...', 0)
+#1 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `de...')
+#2 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `de...')
+#3 C:\xampp\htdocs\presupuesto\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `de...', Array, false)
+#4 C:\xampp\htdocs\presupuesto\app\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\presupuesto\app\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar(Array)
+#6 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+#7 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+#8 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presupuesto\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\presupuesto\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\presupuesto\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-04 05:26:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+[Method: POST, Route: formmueble]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 2 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:26:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'12\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-24\', \'un año\', \'400\', \'800\', 1, \'2024-10-04\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'12\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-24\', \'un año\', \'400\', \'800\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 4 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:26:20 --> [Caused by] mysqli_sql_exception: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'12\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-24\', \'un año\', \'400\', \'800\', 1, \'2024-10-04\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'12\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-24\', \'un año\', \'400\', \'800\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'12\', \'13\', \'vanity \', NULL, \'\', NULL, \'0\', \'pago contra entrega\', \'2024-10-24\', \'un año\', \'400\', \'800\', 1, \'2024-10-04\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 5 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:26:24 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:26:24 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-04 05:26:59 --> mysqli_sql_exception: Column 'transporte' cannot be null in C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `de...', 0)
+#1 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `de...')
+#2 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `de...')
+#3 C:\xampp\htdocs\presupuesto\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `de...', Array, false)
+#4 C:\xampp\htdocs\presupuesto\app\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\presupuesto\app\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar(Array)
+#6 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+#7 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+#8 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presupuesto\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\presupuesto\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\presupuesto\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-04 05:26:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+[Method: POST, Route: formmueble]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 2 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:26:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'12\', \'13\', \'vanity \', NULL, \'\', NULL, \'\', \'pago contra entrega\', \'2024-10-24\', \'un año\', \'400\', \'400\', 1, \'2024-10-04\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'12\', \'13\', \'vanity \', NULL, \'\', NULL, \'\', \'pago contra entrega\', \'2024-10-24\', \'un año\', \'400\', \'400\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 4 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:26:59 --> [Caused by] mysqli_sql_exception: Column 'transporte' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'12\', \'13\', \'vanity \', NULL, \'\', NULL, \'\', \'pago contra entrega\', \'2024-10-24\', \'un año\', \'400\', \'400\', 1, \'2024-10-04\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'12\', \'13\', \'vanity \', NULL, \'\', NULL, \'\', \'pago contra entrega\', \'2024-10-24\', \'un año\', \'400\', \'400\', 1, \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (\'12\', \'13\', \'vanity \', NULL, \'\', NULL, \'\', \'pago contra entrega\', \'2024-10-24\', \'un año\', \'400\', \'400\', 1, \'2024-10-04\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `detalle_presupuesto` (`id_presupuesto`, `id_usuario`, `nombre_mueble`, `producto1`, `precio1`, `transporte`, `descuento`, `cond_pago`, `tentrega`, `garantia`, `subtotal`, `total`, `statusmueble`, `created_at`) VALUES (:id_presupuesto:, :id_usuario:, :nombre_mueble:, :producto1:, :precio1:, :transporte:, :descuento:, :cond_pago:, :tentrega:, :garantia:, :subtotal:, :total:, :statusmueble:, :created_at:)', [...], false)
+ 5 APPPATH\Models\MuebleModel.php(35): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\MuebleController.php(93): App\Models\MuebleModel->insertar([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:27:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:27:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-04 05:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-04 05:28:44 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 05:28:44 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-04 05:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 15:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 15:05:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 15:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 15:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 15:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 15:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 15:16:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 15:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 15:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 15:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-04 15:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-04 15:27:11 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 15:27:12 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-04 15:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-04 15:55:48 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/plugins/jquery-sparkline/jquery.sparkline.js]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('plugins', 'jquery-sparkline', 'jquery.sparkline.js')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 15:55:48 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: crearmueble/favicon.ico]
+in APPPATH\Views\mueble\crear.php on line 55.
+ 1 APPPATH\Views\mueble\crear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php', 55)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\presupuesto\\app\\Views\\mueble\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('mueble/crear', [], true)
+ 5 APPPATH\Controllers\MuebleController.php(36): view('mueble/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MuebleController->create('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MuebleController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-04 15:57:05 --> mysqli_sql_exception: Column 'cliente_id' cannot be null in C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\presupuesto\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\xampp\htdocs\presupuesto\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\xampp\htdocs\presupuesto\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\xampp\htdocs\presupuesto\app\Models\PresupuestoModel.php(34): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\presupuesto\app\Controllers\PresupuestoController.php(90): App\Models\PresupuestoModel->insertar(Array)
+#6 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(933): App\Controllers\PresupuestoController->store()
+#7 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PresupuestoController))
+#8 C:\xampp\htdocs\presupuesto\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presupuesto\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\presupuesto\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\presupuesto\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-04 15:57:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'cliente_id' cannot be null
+[Method: POST, Route: cargarPresupuesto]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `presupuest` (`imagen`, `cliente_id`, `material`, `id_madera`, `id_tela`, `id_cuero`, `alto`, `ancho`, `profundidad`, `acabado`, `color`, `ubicacion`, `created_at`) VALUES (:imagen:, :cliente_id:, :material:, :id_madera:, :id_tela:, :id_cuero:, :alto:, :ancho:, :profundidad:, :acabado:, :color:, :ubicacion:, :created_at:)', [...], false)
+ 2 APPPATH\Models\PresupuestoModel.php(34): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\PresupuestoController.php(90): App\Models\PresupuestoModel->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PresupuestoController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PresupuestoController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 15:57:05 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'cliente_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `presupuest` (`imagen`, `cliente_id`, `material`, `id_madera`, `id_tela`, `id_cuero`, `alto`, `ancho`, `profundidad`, `acabado`, `color`, `ubicacion`, `created_at`) VALUES (\'images/8e3efdb4-ead9-4056-83e3-a56b9a613131_1.jpg\', NULL, \'melamina vesto\', \'4\', \'9\', NULL, \'253 cm\', \'150\', \'40\', \'Melamina\', \'negro\', \'uspantan\', \'2024-10-04\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `presupuest` (`imagen`, `cliente_id`, `material`, `id_madera`, `id_tela`, `id_cuero`, `alto`, `ancho`, `profundidad`, `acabado`, `color`, `ubicacion`, `created_at`) VALUES (\'images/8e3efdb4-ead9-4056-83e3-a56b9a613131_1.jpg\', NULL, \'melamina vesto\', \'4\', \'9\', NULL, \'253 cm\', \'150\', \'40\', \'Melamina\', \'negro\', \'uspantan\', \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `presupuest` (`imagen`, `cliente_id`, `material`, `id_madera`, `id_tela`, `id_cuero`, `alto`, `ancho`, `profundidad`, `acabado`, `color`, `ubicacion`, `created_at`) VALUES (:imagen:, :cliente_id:, :material:, :id_madera:, :id_tela:, :id_cuero:, :alto:, :ancho:, :profundidad:, :acabado:, :color:, :ubicacion:, :created_at:)', [...], false)
+ 4 APPPATH\Models\PresupuestoModel.php(34): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\PresupuestoController.php(90): App\Models\PresupuestoModel->insertar([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PresupuestoController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PresupuestoController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-04 15:57:05 --> [Caused by] mysqli_sql_exception: Column 'cliente_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `presupuest` (`imagen`, `cliente_id`, `material`, `id_madera`, `id_tela`, `id_cuero`, `alto`, `ancho`, `profundidad`, `acabado`, `color`, `ubicacion`, `created_at`) VALUES (\'images/8e3efdb4-ead9-4056-83e3-a56b9a613131_1.jpg\', NULL, \'melamina vesto\', \'4\', \'9\', NULL, \'253 cm\', \'150\', \'40\', \'Melamina\', \'negro\', \'uspantan\', \'2024-10-04\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `presupuest` (`imagen`, `cliente_id`, `material`, `id_madera`, `id_tela`, `id_cuero`, `alto`, `ancho`, `profundidad`, `acabado`, `color`, `ubicacion`, `created_at`) VALUES (\'images/8e3efdb4-ead9-4056-83e3-a56b9a613131_1.jpg\', NULL, \'melamina vesto\', \'4\', \'9\', NULL, \'253 cm\', \'150\', \'40\', \'Melamina\', \'negro\', \'uspantan\', \'2024-10-04\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `presupuest` (`imagen`, `cliente_id`, `material`, `id_madera`, `id_tela`, `id_cuero`, `alto`, `ancho`, `profundidad`, `acabado`, `color`, `ubicacion`, `created_at`) VALUES (\'images/8e3efdb4-ead9-4056-83e3-a56b9a613131_1.jpg\', NULL, \'melamina vesto\', \'4\', \'9\', NULL, \'253 cm\', \'150\', \'40\', \'Melamina\', \'negro\', \'uspantan\', \'2024-10-04\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `presupuest` (`imagen`, `cliente_id`, `material`, `id_madera`, `id_tela`, `id_cuero`, `alto`, `ancho`, `profundidad`, `acabado`, `color`, `ubicacion`, `created_at`) VALUES (:imagen:, :cliente_id:, :material:, :id_madera:, :id_tela:, :id_cuero:, :alto:, :ancho:, :profundidad:, :acabado:, :color:, :ubicacion:, :created_at:)', [...], false)
+ 5 APPPATH\Models\PresupuestoModel.php(34): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\PresupuestoController.php(90): App\Models\PresupuestoModel->insertar([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PresupuestoController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PresupuestoController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-04 15:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
